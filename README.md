@@ -13,5 +13,5 @@ my notes. Currently, I'm at about 40% of the book.
 
 These notes function as cheat sheets for me, but anyone can use them
 who is learning D. At several places, I also provide Python
-solutions next to the D version. So these notes can be
+solutions next to D codes. So these notes can be
 especially useful for Python programmers who want to learn D.
